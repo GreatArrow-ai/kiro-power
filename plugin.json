@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "great-arrow",
+  "version": "1.0.0",
+  "description": "Connect Kiro to your GreatArrow.ai workspace — persistent semantic memory shared across every AI you use, 22 agents, and deep integrations (Google, Microsoft, Slack, Notion, GitHub, and more) through a single MCP server.",
+  "author": {
+    "name": "Manito AI",
+    "email": "support@greatarrow.ai",
+    "url": "https://www.greatarrow.ai"
+  },
+  "homepage": "https://www.greatarrow.ai/install/kiro",
+  "repository": "https://github.com/GreatArrow-ai/kiro-power",
+  "license": "MIT",
+  "keywords": [
+    "great-arrow",
+    "greatarrow",
+    "gad",
+    "memory",
+    "workspace",
+    "rag",
+    "agents",
+    "orchestrator",
+    "integrations",
+    "mcp"
+  ]
+}
