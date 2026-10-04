@@ -26,7 +26,8 @@ See [`POWER.md`](./POWER.md) for full setup, workflows, and troubleshooting.
 
 ## What's here
 
-- `POWER.md` — power manifest (metadata + docs), read by Kiro on activation
+- `plugin.json` — Agent Plugins manifest (name, keywords, author, license)
+- `POWER.md` — power docs (setup, workflows, troubleshooting), read by Kiro on activation
 - `mcp.json` — MCP server config (HTTP transport, `kiro-power` client)
 - `icon.png` — 512×512 Great Arrow logo for the power listing
 
